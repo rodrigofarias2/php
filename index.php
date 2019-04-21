@@ -1,1 +1,4 @@
-echo "ola mundo"
+<?php
+echo "ola rodrigo";
+echo "ola vida";
+?>
